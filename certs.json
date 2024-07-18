@@ -1,0 +1,1006 @@
+{
+    "certificates": [
+        {
+            "sha1": "05861FDE0CCACD6EEC8D91DB6E0F22C257748532",
+            "organization": "Microsoft",
+            "not_before": "2010-10-05T22:02:28",
+            "not_after": "2035-10-05T22:09:33",
+            "subject": "C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation Third Party Marketplace Root",
+            "issuer": "C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation Third Party Marketplace Root"
+        },
+        {
+            "sha1": "513C0EA5FC5DEA245C63EC453269E912665DD118",
+            "organization": "Orange",
+            "not_before": "2009-06-30T09:31:21",
+            "not_after": "2036-11-15T09:31:21",
+            "subject": "C=UK, ST=London, L=London, O=Orange, OU=Orange , CN=Orange_Android_Certificate",
+            "issuer": "C=UK, ST=London, L=London, O=Orange, OU=Orange , CN=Orange_Android_Certificate"
+        },
+        {
+            "sha1": "5DE8EB4098D2E35A2C3951A169BF9E19A680E2D4",
+            "organization": "Deezer",
+            "not_before": "2009-07-08T10:49:52",
+            "not_after": "2064-04-10T10:49:52",
+            "subject": "C=FR, ST=Paris, L=Paris, O=Deezer.com, OU=Deezer.com, CN=Deezer.com",
+            "issuer": "C=FR, ST=Paris, L=Paris, O=Deezer.com, OU=Deezer.com, CN=Deezer.com",
+            "packages": ["deezer.android.app"]
+        },
+        {
+            "sha1": "F124CEA1AF142E339A087A34265B0A92DB461E06",
+            "organization": "France Television",
+            "not_before": "2011-12-07T17:40:58",
+            "not_after": "3010-04-09T17:40:58",
+            "subject": "O=France Television",
+            "issuer": "O=France Television",
+            "packages": ["fr.francetv.apps.info"]
+        },
+        {
+            "sha1": "24BB24C05E47E0AEFA68A58A766179D9B613A600",
+            "organization": "Google",
+            "not_before": "2008-12-02T02:07:58",
+            "not_after": "2036-04-19T02:07:58",
+            "subject": "C=US, ST=CA, L=Mountain View, O=Google, Inc, OU=Google, Inc, CN=Unknown",
+            "issuer": "C=US, ST=CA, L=Mountain View, O=Google, Inc, OU=Google, Inc, CN=Unknown"
+        },
+        {
+            "sha1": "690C93DD4ADDA12F91362AF94D7CC9EE62D3027A",
+            "organization": "Google",
+            "not_before": "2022-06-08T15:24:27",
+            "not_after": "2052-06-08T15:24:27",
+            "subject": "C=US/ST=California/L=Mountain View/O=Google Inc./OU=Android/CN=Android",
+            "issuer": "C=US/ST=California/L=Mountain View/O=Google Inc./OU=Android/CN=Android"
+        },
+        {
+            "sha1": "38A0F7D505FE18FEC64FBF343ECAAAF310DBD799",
+            "organization": "WhatsApp",
+            "not_before": "2010-06-25T23:07:16",
+            "not_after": "2044-02-15T23:07:16",
+            "subject": "C=US, ST=California, L=Santa Clara, O=WhatsApp Inc., OU=Engineering, CN=Brian Acton",
+            "issuer": "C=US, ST=California, L=Santa Clara, O=WhatsApp Inc., OU=Engineering, CN=Brian Acton",
+            "packages": ["com.whatsapp"]
+        },
+        {
+            "sha1": "95EC1C87ABE5E11C7DFBC367F7217BDACA53FA6F",
+            "organization": "Google",
+            "not_before": "2022-06-08T15:24:26",
+            "not_after": "2052-06-08T15:24:26",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "826C970285C01FCDBE6AAE815C797419A8AEFBF7",
+            "organization": "Le Monde",
+            "not_before": "2009-11-30T19:29:36",
+            "not_after": "2064-09-02T19:29:36",
+            "subject": "C=FR, ST=Paris, L=Paris, O= Le Monde Interactif, OU=Le Monde Interactif Android, CN=Le Monde.fr",
+            "issuer": "C=FR, ST=Paris, L=Paris, O= Le Monde Interactif, OU=Le Monde Interactif Android, CN=Le Monde.fr",
+            "packages": ["com.lemonde.androidapp"]
+        },
+        {
+            "sha1": "38918A453D07199354F8B19AF05EC6562CED5788",
+            "organization": "Google",
+            "not_before": "2008-08-21T23:13:34",
+            "not_after": "2036-01-07T23:13:34",
+            "subject": "C=US/ST=California/L=Mountain View/O=Google Inc./OU=Android/CN=Android",
+            "issuer": "C=US/ST=California/L=Mountain View/O=Google Inc./OU=Android/CN=Android"
+        },
+        {
+            "sha1": "40F3166BB567D3144BCA7DA466BB948B782270EA",
+            "organization": "Twitter/X",
+            "not_before": "2010-04-27T23:01:34",
+            "not_after": "2048-08-25T23:01:34",
+            "subject": "C=US, ST=CA, L=San Francisco, O=Twitter, Inc., OU=Mobile, CN=Leland Rechis",
+            "issuer": "C=US, ST=CA, L=San Francisco, O=Twitter, Inc., OU=Mobile, CN=Leland Rechis",
+            "packages": ["com.twitter.android"]
+        },
+        {
+            "sha1": "443CB997718D0AC5162888BAE5E4724582862676",
+            "organization": "LinkedIn",
+            "not_before": "2010-12-14T22:48:02",
+            "not_after": "2038-05-01T22:48:02",
+            "subject": "C=US, ST=CA, L=Mountain View, O=LinkedIn Corp, OU=LED, CN=Jaikumar Ramanathan",
+            "issuer": "C=US, ST=CA, L=Mountain View, O=LinkedIn Corp, OU=LED, CN=Jaikumar Ramanathan",
+            "packages": ["com.linkedin.android"]
+        },
+        {
+            "sha1": "464FE87D17060838E59300C1472D6BEF074593A8",
+            "organization": "Microsoft",
+            "not_before": "2022-05-12T20:16:41",
+            "not_after": "2034-09-30T20:16:41",
+            "subject": "C=US, O=Microsoft Corporation, CN=Microsoft Android Play App PCA",
+            "issuer": "C=US, O=Microsoft Corporation, CN=Microsoft Android Play App PCA",
+            "packages": ["com.microsoft.office.officehubrow"]
+        },
+        {
+            "sha1": "62AF8A918A24D9082846725B4AE9C9B627191A1C",
+            "organization": "Verizon",
+            "not_before": "2021-07-14T22:51:13",
+            "not_after": "2046-07-08T22:51:13",
+            "subject": "ST=NJ, O=Verizon Wireless, OU=Verizon Wireless",
+            "issuer": "ST=NJ, O=Verizon Wireless, OU=Verizon Wireless"
+        },
+        {
+            "sha1": "FE96F0C14F56C8C0CE26A654576FD8829224ED49",
+            "organization": "Google",
+            "not_before": "2023-01-30T16:44:24",
+            "not_after": "2053-01-30T16:44:24",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "6F600EC7DA7ABE3C14C5795B81B7C71D9B9078BF",
+            "organization": "SNCF Connect",
+            "not_before": "2010-10-29T14:10:15",
+            "not_after": "2038-03-16T14:10:15",
+            "subject": "C=FR, ST=FRANCE, L=Defense, O=VSC, OU=VSCT, CN=Production",
+            "issuer": "C=FR, ST=FRANCE, L=Defense, O=VSC, OU=VSCT, CN=Production"
+        },
+        {
+            "sha1": "E30964C9ACCCB399A9DAA3D423831E04729F58F5",
+            "organization": "Google",
+            "not_before": "2014-09-11T18:47:59",
+            "not_after": "2042-01-27T18:47:59",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=play_autoinstall_config",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=play_autoinstall_config"
+        },
+        {
+            "sha1": "B804E188301813B5D8D47D0BB2280607C16FD8B6",
+            "organization": "Shazam",
+            "not_before": "2008-10-14T12:55:06",
+            "not_after": "2036-03-01T12:55:06",
+            "subject": "C=UK, ST=London, L=London, O=Shazam Entertainment Ltd., OU=Operations, CN=Tony Miller",
+            "issuer": "C=UK, ST=London, L=London, O=Shazam Entertainment Ltd., OU=Operations, CN=Tony Miller",
+            "packages": ["com.shazam.android"]
+        },
+        {
+            "sha1": "25FF905A6642E53A58D600F23C01E58D2363B23F",
+            "organization": "Verizon",
+            "not_before": "2010-09-22T22:10:22",
+            "not_after": "2035-09-16T22:10:22",
+            "subject": "C=US, ST=New Jersey, L=Basking Ridge, O=Verizon Wireles, OU=PDI, CN=Verizon Wireless",
+            "issuer": "C=US, ST=New Jersey, L=Basking Ridge, O=Verizon Wireles, OU=PDI, CN=Verizon Wireless",
+            "packages": ["com.verizon.familybase.companion"]
+        },
+        {
+            "sha1": "09B3E0B0E7995718FD4328E851B72AB6420748C9",
+            "organization": "Google",
+            "not_before": "2018-12-11T15:34:30",
+            "not_after": "2048-12-11T15:34:30",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "105CDDCA2BF0D7DD74472BD79EE9ADF7044BEF68",
+            "organization": "Google",
+            "not_before": "2020-08-26T19:54:10",
+            "not_after": "2050-08-26T19:54:10",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "1D156D16E46B29796EF586B1B6C80E8690156717",
+            "organization": "Google",
+            "not_before": "2019-02-01T03:56:07",
+            "not_after": "2049-02-01T03:56:07",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "1BCF3AF30D77878256D4A56C97622DF8BD6A2624",
+            "organization": "Google",
+            "not_before": "2019-08-05T14:53:17",
+            "not_after": "2049-08-05T14:53:17",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "1E865463E6DD6A422A7EC053ACC11F4CE4E202F5",
+            "organization": "Google",
+            "not_before": "2017-08-01T01:58:53",
+            "not_after": "2047-08-01T01:58:53",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "2CC457A9BA36EF04A34B479DD18593C6B57347DE",
+            "organization": "Lime",
+            "not_before": "2017-02-11T20:19:24",
+            "not_after": "2042-02-05T20:19:24",
+            "subject": "C=US, ST=California, L=San Mateo, O=LimeBike, OU=Mobile Development, CN=Lime Bike",
+            "issuer": "C=US, ST=California, L=San Mateo, O=LimeBike, OU=Mobile Development, CN=Lime Bike",
+            "packages": ["com.limebike"]
+        },
+        {
+            "sha1": "920F4876A6A57B4A6A2F4CCAF65F7D29CE26FF2C",
+            "organization": "Mozilla",
+            "not_before": "2010-08-23T23:00:24",
+            "not_after": "2038-01-08T23:00:24",
+            "subject": "C=US, ST=California, L=Mountain View, O=Mozilla Corporation, OU=Release Engineering, CN=Release Engineering",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Mozilla Corporation, OU=Release Engineering, CN=Release Engineering",
+            "packages": ["org.mozilla.firefox"]
+        },
+        {
+            "sha1": "9741A0F330DC2E8619B76A2597F308C37DBE30A2",
+            "organization": "Samsung",
+            "not_before": "2011-06-22T12:25:13",
+            "not_after": "2038-11-07T12:25:13",
+            "subject": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert",
+            "issuer": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert"
+        },
+        {
+            "sha1": "D6A6DCED4A85F24204BF9505CCC1FCE114CADB32",
+            "organization": "Spotify",
+            "not_before": "2014-05-24T16:58:57",
+            "not_after": "2288-03-08T16:58:57",
+            "subject": "C=SE, ST=Stockholm, L=Stockholm, O=Spotify, OU=Android, CN=Spotify",
+            "issuer": "C=SE, ST=Stockholm, L=Stockholm, O=Spotify, OU=Android, CN=Spotify",
+            "packages": ["com.spotify.music"]
+        },
+        {
+            "sha1": "A342C54603E6F4ECA5090B719ECD5FBFF6A5C700",
+            "organization": "Babbel",
+            "not_before": "2012-02-16T15:12:56",
+            "not_after": "2039-07-04T15:12:56",
+            "subject": "C=de, ST=Unknown, L=Unknown, O=Lesson Nine GmbH Babbel.com, OU=Unknown, CN=Kathrin Holweger",
+            "issuer": "C=de, ST=Unknown, L=Unknown, O=Lesson Nine GmbH Babbel.com, OU=Unknown, CN=Kathrin Holweger",
+            "packages": ["com.babbel.mobile.android.it", "com.babbel.mobile.android.en"]
+        },
+        {
+            "sha1": "FABA42561BE52057F670B4412FD513EF687CA47A",
+            "organization": "NordVPN",
+            "not_before": "2016-01-22T07:19:25",
+            "not_after": "2041-01-15T07:19:25",
+            "issuer": "C=PA, ST=Panama, L=Panama, O=Tefincom, OU=Mobile Development, CN=Alex Weblowsky",
+            "subject": "C=PA, ST=Panama, L=Panama, O=Tefincom, OU=Mobile Development, CN=Alex Weblowsky",
+            "packages": ["com.nordvpn.android"]
+        },
+        {
+            "sha1": "9CA5170F381919DFE0446FCDAB18B19A143B3163",
+            "organization": "Samsung",
+            "not_before": "2011-06-22T12:25:12",
+            "not_after": "2038-11-07T12:25:12",
+            "subject": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert",
+            "issuer": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert"
+        },
+        {
+            "sha1": "BA141746D704B96ED4DBC24D02D44BB2A3908512",
+            "organization": "Samsung",
+            "not_before": "2011-06-22T12:25:12",
+            "not_after": "2038-11-07T12:25:12",
+            "subject": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert",
+            "issuer": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert"
+        },
+        {
+            "sha1": "0E2385172276758754BAB44FD9C21BD181B19F2D",
+            "organization": "Samsung",
+            "not_before": "2013-01-28T14:12:05",
+            "not_after": "2043-01-21T14:12:05",
+            "subject": "C=KR, ST=Suwon, L=Suwon, O=SamsungApps, OU=TEAM, CN=SamsungApps",
+            "issuer": "C=KR, ST=Suwon, L=Suwon, O=SamsungApps, OU=TEAM, CN=SamsungApps"
+        },
+        {
+            "sha1": "400109E567834ED13EA945D42EE4F75EF2E01E1F",
+            "organization": "Samsung",
+            "not_before": "2013-05-02T02:02:40",
+            "not_after": "2038-04-26T02:02:40",
+            "subject": "O=voiceservice, OU=translator",
+            "issuer": "O=voiceservice, OU=translator",
+            "packages": ["com.samsung.svoice.sync"]
+        },
+        {
+            "sha1": "F7C2FF875137F76CED91FC6ACE6C4C3795BA4CAD",
+            "organization": "Samsung",
+            "not_before": "2013-03-17T06:51:37",
+            "not_after": "2038-03-11T06:51:37",
+            "subject": "C=kr, O=Samsung Electronics, OU=msc",
+            "issuer": "C=kr, O=Samsung Electronics, OU=msc",
+            "packages": ["com.sec.android.widgetapp.samsungapps"]
+        },
+        {
+            "sha1": "AB3199C605D3683D8B0B5B25C4BE1EEE6A4E8524",
+            "organization": "Samsung",
+            "not_before": "2012-12-14T02:27:46",
+            "not_after": "2112-11-20T02:27:46",
+            "subject": "C=KR, O=Samsung Electronics, OU=Android SW R&D, CN=MobilePrint",
+            "issuer": "C=KR, O=Samsung Electronics, OU=Android SW R&D, CN=MobilePrint",
+            "packages": ["com.sec.app.samsungprintservice"]
+        },
+        {
+            "sha1": "CF3181BE0FC4C2E0ACA7B777DBBB83DA54C9D1BE",
+            "organization": "Samsung",
+            "not_before": "2011-08-30T10:25:20",
+            "not_after": "2111-08-06T10:25:20",
+            "subject": "OU=samsung, CN=samsung",
+            "issuer": "OU=samsung, CN=samsung",
+            "packages": ["com.osp.app.signin"]
+        },
+        {
+            "sha1": "3D3A8FEF5A54C5FBD9D403222750A24260FEABEB",
+            "organization": "Google",
+            "not_before": "2016-07-12T01:32:07",
+            "not_after": "2043-11-28T01:32:07",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=instant_apps_supervisor",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=instant_apps_supervisor",
+            "packages": ["com.google.android.instantapps.supervisor"]
+        },
+        {
+            "sha1": "C56FB7D591BA6704DF047FD98F535372FEA00211",
+            "organization": "Instagram",
+            "not_before": "2012-02-08T01:41:31",
+            "not_after": "2112-01-15T01:41:31",
+            "subject": "C=US, ST=California, L=San Francisco, O=Instagram Inc, CN=Kevin Systrom",
+            "issuer": "C=US, ST=California, L=San Francisco, O=Instagram Inc, CN=Kevin Systrom",
+            "packages": ["com.instagram.android"]
+        },
+        {
+            "sha1": "8A3C4B262D721ACD49A4BF97D5213199C86FA2B9",
+            "organization": "Facebook",
+            "not_before": "2009-08-31T21:52:16",
+            "not_after": "2050-09-25T21:52:16",
+            "subject": "C=US, ST=CA, L=Palo Alto, O=Facebook Mobile, OU=Facebook, CN=Facebook Corporation",
+            "issuer": "C=US, ST=CA, L=Palo Alto, O=Facebook Mobile, OU=Facebook, CN=Facebook Corporation",
+            "packages": ["com.facebook.orca", "com.facebook.katana"]
+        },
+        {
+            "sha1": "7BA7EFE97151AFEB57103266B1200D85A805D7D6",
+            "organization": "Facebook",
+            "not_before": "2016-04-08T20:27:20",
+            "not_after": "2043-08-25T20:27:20",
+            "subject": "C=US, ST=California, L=Menlo Park, O=Facebook Inc., OU=Facebook Mobile, CN=Facebook Inc.",
+            "issuer": "C=US, ST=California, L=Menlo Park, O=Facebook Inc., OU=Facebook Mobile, CN=Facebook Inc.",
+            "packages": ["com.facebook.appmanager", "com.facebook.system"]
+        },
+        {
+            "sha1": "D7268D869BE7D87CB797E8F7449BF2451ED8019B",
+            "organization": "Netflix",
+            "not_before": "2010-06-08T17:07:30",
+            "not_after": "2037-10-24T17:07:30",
+            "subject": "C=US, ST=California, L=Los Gatos, O=Netflix, Inc., OU=PPD, CN=PPD Builder",
+            "issuer": "C=US, ST=California, L=Los Gatos, O=Netflix, Inc., OU=PPD, CN=PPD Builder",
+            "packages": ["com.netflix.mediaclient", "com.netflix.NGP.Minesweeper"]
+        },
+        {
+            "sha1": "D67A8C3BE07403744EF8827071A939D395DCB248",
+            "organization": "Opera",
+            "not_before": "2014-06-18T08:27:16",
+            "not_after": "2114-05-25T08:27:16",
+            "subject": "C=NO, ST=Oslo, L=Oslo, O=Opera Software ASA, OU=Opera Mini, CN=Opera Android CA",
+            "issuer": "C=NO, ST=Oslo, L=Oslo, O=Opera Software ASA, OU=Opera Mini, CN=Opera Android CA",
+            "packages": ["com.opera.mini.native.beta", "com.opera.mini.native", "com.opera.app.news"]
+        },
+        {
+            "sha1": "9723E5838612E9C7C08CA2C6573B6026D7A51F8F",
+            "organization": "Telegram",
+            "not_before": "2013-08-29T19:13:13",
+            "not_after": "2038-08-23T19:13:13",
+            "subject": "L=Saint-Petersburg, O=VK, OU=VK, CN=Nikolay Kudashov",
+            "issuer": "L=Saint-Petersburg, O=VK, OU=VK, CN=Nikolay Kudashov",
+            "packages": ["org.telegram.messenger"]
+        },
+        {
+            "sha1": "5D77C4D8FE71648B6FC904E1BBFCB8809CD5AA40",
+            "organization": "Zoom",
+            "not_before": "2012-05-09T06:10:51",
+            "not_after": "2062-04-27T06:10:51",
+            "subject": "C=US, O=Zoom Video Communications Inc.",
+            "issuer": "C=US, O=Zoom Video Communications Inc.",
+            "packages": ["us.zoom.videomeetings"]
+        },
+        {
+            "sha1": "A0BC09AF527B6397C7A9EF171D6CF76F757BECC3",
+            "organization": "Google",
+            "not_before": "2015-01-23T19:11:23",
+            "not_after": "2042-06-10T19:11:23",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=corp_tachyon",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=corp_tachyon",
+            "packages": ["com.google.android.apps.tachyon"]
+        },
+        {
+            "sha1": "411C40B31F6D01DAC68D711DF99B6EAFEEC8E73B",
+            "organization": "Uber",
+            "not_before": "2010-10-15T17:08:30",
+            "not_after": "2060-10-02T17:08:30",
+            "subject": "ST=California, L=San Francisco, O=UberCab, CN=Jordan Bonnet",
+            "issuer": "ST=California, L=San Francisco, O=UberCab, CN=Jordan Bonnet",
+            "packages": ["com.ubercab", "com.ubercab.driver", "com.ubercab.fleet"]
+        },
+        {
+            "sha1": "771807D1B8414D6989E7D8EF0B9797243B931F95",
+            "organization": "Skype",
+            "not_before": "2010-06-08T10:20:18",
+            "not_after": "2040-07-20T10:20:18",
+            "subject": "C=GB, L=London, O=Skype, OU=Mobile Client, CN=Skype",
+            "issuer": "C=GB, L=London, O=Skype, OU=Mobile Client, CN=Skype",
+            "packages": ["com.skype.raider", "com.skype.insiders"]
+        },
+        {
+            "sha1": "BB0FFD37010B62873D50C8AD093B3F895C76980B",
+            "organization": "Google",
+            "not_before": "2016-03-08T23:27:32",
+            "not_after": "2043-07-25T23:27:32",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=gmscore_modules_percy",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=gmscore_modules_percy"
+        },
+        {
+            "sha1": "9F591218C092CE2AE72AEB71C2EA00A7CBF20030",
+            "organization": "Google",
+            "not_before": "2017-05-12T18:12:40",
+            "not_after": "2047-05-12T18:12:40",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "packages": ["com.google.android.apps.nbu.files"]
+        },
+        {
+            "sha1": "7DC83CD2ABE833560C2896626E307041C0DF3A7A",
+            "organization": "Microsoft",
+            "not_before": "2011-07-29T22:52:12",
+            "not_after": "2034-09-19T22:52:12",
+            "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Android Marketplace Signing for Microsoft Office, CN=Microsoft Corporation Third Party Marketplace (Do Not Trust)",
+            "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Android Marketplace Signing for Microsoft Office, CN=Microsoft Corporation Third Party Marketplace (Do Not Trust)",
+            "packages": ["com.microsoft.office.outlook", "com.microsoft.teams"]
+        },
+        {
+            "sha1": "E261456FE878FA8EEE5EF60E865EB505E222629F",
+            "organization": "Adobe",
+            "not_before": "2014-09-30T06:36:10",
+            "not_after": "2039-09-24T06:36:10",
+            "subject": "C=en, ST=California, L=San Jose, O=Adobe, OU=Adobe, CN=Adobe",
+            "issuer": "C=en, ST=California, L=San Jose, O=Adobe, OU=Adobe, CN=Adobe",
+            "packages": ["com.adobe.cc", "com.adobe.sparklerandroid", "com.adobe.photoshopmix", "com.adobe.creativeapps.draw", "com.adobe.creativeapps.gather", "com.adobe.premiererush.videoeditor"]
+        },
+        {
+            "sha1": "C07A0B5EC6F01A5789C4BBF88A830360514F02C5",
+            "organization": "Adobe",
+            "not_before": "2010-05-04T18:00:23",
+            "not_after": "2037-09-19T18:00:23",
+            "subject": "C=US, ST=California, L=San Jose, O=Adobe Systems Incorporated, OU=Adobe Reader, CN=Adobe Systems Incorporated",
+            "issuer": "C=US, ST=California, L=San Jose, O=Adobe Systems Incorporated, OU=Adobe Reader, CN=Adobe Systems Incorporated",
+            "packages": ["com.adobe.reader"]
+        },
+        {
+            "sha1": "A00BB7D92E38909C2F6C04A80558890E52949CD9",
+            "organization": "Duo Linguo",
+            "not_before": "2013-05-16T03:46:23",
+            "not_after": "2043-05-09T03:46:23",
+            "subject": "O=Duolingo, CN=Vicki Cheung",
+            "issuer": "O=Duolingo, CN=Vicki Cheung",
+            "packages": ["com.duolingo"]
+        },
+        {
+            "sha1": "49F6BADB81D89A9E38D65DE76F09355071BD67E7",
+            "organization": "Snapchat",
+            "not_before": "2012-09-11T10:06:20",
+            "not_after": "2040-01-28T10:06:20",
+            "subject": "C=01, ST=California, L=Los Angeles, O=Snapchat, OU=Captain Captcha, CN=Daniel Smith",
+            "issuer": "C=01, ST=California, L=Los Angeles, O=Snapchat, OU=Captain Captcha, CN=Daniel Smith",
+            "packages": ["com.snapchat.android"]
+        },
+        {
+            "sha1": "9E93B3336C767C3ABA6FCC4DEADA9F179EE4A05B",
+            "organization": "Candy Crush",
+            "not_before": "2012-01-12T14:00:07",
+            "not_after": "2039-05-30T14:00:07",
+            "subject": "C=RO, ST=Romania, L=Bucharest, O=king.com, OU=Mobile, CN=Cristian Bidea",
+            "issuer": "C=RO, ST=Romania, L=Bucharest, O=king.com, OU=Mobile, CN=Cristian Bidea",
+            "packages": ["com.king.candycrushsodasaga", "com.king.candycrushjellysaga", "com.king.farmheroessaga", "com.king.blossomblast"]
+        },
+        {
+            "sha1": "45989DC9AD8728C2AA9A82FA55503E34A8879374",
+            "organization": "Signal",
+            "not_before": "2010-05-25T15:24:42",
+            "not_after": "2045-05-16T15:24:42",
+            "subject": "C=US, ST=PA, L=Pittsburgh, O=Whisper Systems, OU=Research and Development, CN=Whisper Systems",
+            "issuer": "C=US, ST=PA, L=Pittsburgh, O=Whisper Systems, OU=Research and Development, CN=Whisper Systems",
+            "packages": ["org.thoughtcrime.securesms"]
+        },
+        {
+            "sha1": "47FF6BA97EFAAE9779356CBAD5BA15233E8DDB3A",
+            "organization": "Atlassian",
+            "not_before": "2011-06-01T19:18:35",
+            "not_after": "2038-10-17T19:18:35",
+            "subject": "C=US, ST=CA, L=Sunnyvale, O=HipChat Inc., OU=N/A, CN=HipChat Inc.",
+            "issuer": "C=US, ST=CA, L=Sunnyvale, O=HipChat Inc., OU=N/A, CN=HipChat Inc.",
+            "packages": ["com.atlassian.android.confluence.core", "com.atlassian.android.jira.core", "org.jitsi.meet"]
+        },
+        {
+            "sha1": "025D5212BF3B5F5CDA6117A518721D70A94D84E0",
+            "organization": "Huawei",
+            "not_before": "2016-05-05T07:35:14",
+            "not_after": "2043-09-21T07:35:14",
+            "subject": "C=CN, ST=Guangdong, L=Shengzhen, O=Huawei, OU=TerminalCompany, CN=AndroidTeam",
+            "issuer": "C=CN, ST=Guangdong, L=Shengzhen, O=Huawei, OU=TerminalCompany, CN=AndroidTeam"
+        },
+        {
+            "sha1": "29C647CBCC9A5FBD6C0C961E05712BD15352A1F5",
+            "organization": "Samsung",
+            "not_before": "2018-11-13T08:18:31",
+            "not_after": "2118-11-12T15:00:00",
+            "subject": "C=KR, ST=Republic of Korea, L=Suwon City, O=Samsung Electronics Co. Ltd., OU=Mobile Communications Business, CN=Samsung Platform Key for non-Galaxy devices",
+            "issuer": "C=KR, ST=Republic of Korea, L=Suwon City, O=Samsung Electronics Co. Ltd., OU=Mobile Communications Business, CN=Samsung Platform Key for non-Galaxy devices"
+        },
+        {
+            "sha1": "5AF3C82BCDF98581F4BC98A5B86A41B30ED0C231",
+            "organization": "Lenovo",
+            "not_before": "2010-12-16T07:01:18",
+            "not_after": "1974-10-16T00:33:02",
+            "subject": "C=CN, ST=BJ, L=Beijing View, O=Lenovo, OU=Research, CN=LeOS",
+            "issuer": "C=CN, ST=BJ, L=Beijing View, O=Lenovo, OU=Research, CN=LeOS"
+        },
+        {
+            "sha1": "661952A06057EA00574A835FA4F888DD533D9F68",
+            "organization": "TCL",
+            "not_before": "2013-10-09T23:46:39",
+            "not_after": "2041-02-24T23:46:39",
+            "subject": "C=CN, ST=Shanghai, L=Zhangjiang-Hi-Tech-Park, O=TCT, OU=www.tcl.com, CN=TCL-releasekey",
+            "issuer": "C=CN, ST=Shanghai, L=Zhangjiang-Hi-Tech-Park, O=TCT, OU=www.tcl.com, CN=TCL-releasekey"
+        },
+        {
+            "sha1": "51478EE26AC2E3C9620A152659770C6C8EBDD1CB",
+            "organization": "TCL",
+            "not_before": "2014-05-18T22:21:24",
+            "not_after": "2041-10-03T22:21:24",
+            "subject": "C=CN, ST=Shanghai, L=Zhangjiang-Hi-Tech-Park, O=TCT, OU=www.tcl.com, CN=TCL-platform",
+            "issuer": "C=CN, ST=Shanghai, L=Zhangjiang-Hi-Tech-Park, O=TCT, OU=www.tcl.com, CN=TCL-platform"
+        },
+        {
+            "sha1": "DA4552C02A37DD3C4D12354ED8D1506B33AA987A",
+            "organization": "TCL",
+            "not_before": "2014-05-18T22:21:05",
+            "not_after": "2041-10-03T22:21:05",
+            "subject": "C=CN, ST=Shanghai, L=Zhangjiang-Hi-Tech-Park, O=TCT, OU=www.tcl.com, CN=TCL-shared",
+            "issuer": "C=CN, ST=Shanghai, L=Zhangjiang-Hi-Tech-Park, O=TCT, OU=www.tcl.com, CN=TCL-shared"
+        },
+        {
+            "sha1": "109F7815F8FD7EA086174B1D486C169A315C47FF",
+            "organization": "Samsung",
+            "not_before": "2011-06-22T12:25:12",
+            "not_after": "2038-11-07T12:25:12",
+            "subject": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert",
+            "issuer": "C=KR, ST=South Korea, L=Suwon City, O=Samsung Corporation, OU=DMC, CN=Samsung Cert"
+        },
+        {
+            "sha1": "44DAC7484F42F01AEB9E6619DE33F944DB68382B",
+            "organization": "Samsung",
+            "not_before": "2018-11-13T08:20:02",
+            "not_after": "2118-11-12T15:00:00",
+            "subject": "C=KR, ST=Republic of Korea, L=Suwon City, O=Samsung Electronics Co. Ltd., OU=Mobile Communications Business, CN=Samsung Media Key for non-Galaxy devices",
+            "issuer": "C=KR, ST=Republic of Korea, L=Suwon City, O=Samsung Electronics Co. Ltd., OU=Mobile Communications Business, CN=Samsung Media Key for non-Galaxy devices"
+        },
+        {
+            "sha1": "C6AE382FFB7836E34B4F499D11A41FE0FE003CB8",
+            "organization": "Google",
+            "not_before": "2019-02-06T21:33:59",
+            "not_after": "2049-02-06T21:33:59",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "0980A12BE993528C19107BC21AD811478C63CEFC",
+            "organization": "Google",
+            "not_before": "2014-06-17T19:19:09",
+            "not_after": "2041-11-02T19:19:09",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=googlemessaging",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=googlemessaging",
+            "packages": ["com.google.android.apps.messaging"]
+        },
+        {
+            "sha1": "203997BC46B8792DC9747ABD230569071F9A0439",
+            "organization": "Google",
+            "not_before": "2014-09-24T03:22:45",
+            "not_after": "2042-02-09T03:22:45",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=google_dialer",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=google_dialer",
+            "packages": ["com.google.android.dialer"]
+        },
+        {
+            "sha1": "E7CE8F6260945D1F25B7FDE186CFAE7F83A3A30F",
+            "organization": "Google",
+            "not_before": "2020-03-06T17:17:46",
+            "not_after": "2050-03-06T17:17:46",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "504DFE5F654AFC841695888F912E62DAB35872D7",
+            "organization": "Google",
+            "not_before": "2018-10-12T18:17:55",
+            "not_after": "2048-10-12T18:17:55",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "4EBDD02380F1FA0B6741491F0AF35625DBA76E9F",
+            "organization": "Google",
+            "not_before": "2018-03-09T03:54:38",
+            "not_after": "2048-03-09T03:54:38",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "packages": ["com.google.android.apps.wellbeing"]
+        },
+        {
+            "sha1": "E9FF11DC2D746A028B1AC59E63BC2C00503015EF",
+            "organization": "Google",
+            "not_before": "2020-03-06T17:17:46",
+            "not_after": "2050-03-06T17:17:46",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "FFBC3C753EB07172613B3D3C6C3B2AD538330E79",
+            "organization": "Google",
+            "not_before": "2018-04-02T13:34:44",
+            "not_after": "2048-04-02T13:34:44",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "packages": ["com.google.android.apps.podcasts"]
+        },
+        {
+            "sha1": "6DDB6673E07F05A1BECE93343651AD167FADDC10",
+            "organization": "Google",
+            "not_before": "2016-07-28T15:49:44",
+            "not_after": "2043-12-14T15:49:44",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=rcsstack",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=rcsstack",
+            "packages": ["com.google.android.ims"]
+        },
+        {
+            "sha1": "FD4122A2FFB4C0718D538866ECDA18BBCE7B1B15",
+            "organization": "Samsung",
+            "not_before": "2018-11-13T08:19:36",
+            "not_after": "2118-11-12T15:00:00",
+            "subject": "C=KR, ST=Republic of Korea, L=Suwon City, O=Samsung Electronics Co. Ltd., OU=Mobile Communications Business, CN=Samsung Shared Key for non-Galaxy devices",
+            "issuer": "C=KR, ST=Republic of Korea, L=Suwon City, O=Samsung Electronics Co. Ltd., OU=Mobile Communications Business, CN=Samsung Shared Key for non-Galaxy devices"
+        },
+        {
+            "sha1": "7B6DC7079C34739CE81159719FB5EB61D2A03225",
+            "organization": "Xiaomi",
+            "not_before": "2011-12-06T03:26:26",
+            "not_after": "2039-04-23T03:26:26",
+            "subject": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI",
+            "issuer": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI"
+        },
+        {
+            "sha1": "37834B34C217F19D193208C0B5B0FF429679EB1F",
+            "organization": "Xiaomi",
+            "not_before": "2011-12-06T03:27:06",
+            "not_after": "2039-04-23T03:27:06",
+            "subject": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI",
+            "issuer": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI"
+        },
+        {
+            "sha1": "B3D1CE9C2C6403E9685324BCD57F677B13A53174",
+            "organization": "Xiaomi",
+            "not_before": "2011-12-06T03:27:30",
+            "not_after": "2039-04-23T03:27:30",
+            "subject": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI",
+            "issuer": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI"
+        },
+        {
+            "sha1": "FFFEBF52B8979D377AFFE671F9539CAB10361BBD",
+            "organization": "Xiaomi",
+            "not_before": "2011-12-06T03:26:51",
+            "not_after": "2039-04-23T03:26:51",
+            "subject": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI",
+            "issuer": "C=CN, ST=Beijing, L=Beijing, O=Xiaomi, OU=MIUI, CN=MIUI"
+        },
+        {
+             "sha1": "23527EF30C2EB107DC50D2800794B5D58E6067FC",
+             "organization": "OnePlus",
+             "not_before": "2015-05-07T07:23:23",
+             "not_after": "2042-09-22T07:23:23",
+             "subject": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=SW, CN=OnePlus",
+             "issuer": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=SW, CN=OnePlus"
+        },
+        {
+            "sha1": "8C2E44F5C2C0212E90548A7288DFAC574DEC269F",
+            "organization": "OnePlus",
+            "not_before": "2015-03-24T14:18:50",
+            "not_after": "2042-08-09T14:18:50",
+            "subject": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=ROM, CN=OnePlus",
+            "issuer": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=ROM, CN=OnePlus"
+        },
+        {
+            "sha1": "8976387033A43C955F38AA54C91521C9F659361B",
+            "organization": "OnePlus",
+            "not_before": "2015-05-07T07:23:35",
+            "not_after": "2042-09-22T07:23:35",
+            "subject": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=SW, CN=OnePlus",
+            "issuer": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=SW, CN=OnePlus"
+        },
+        {
+            "sha1": "CA821DBECD45ACCCCB36E8C43521AFEB0C0628D8",
+            "organization": "OnePlus",
+            "not_before": "2015-05-07T07:23:10",
+            "not_after": "2042-09-22T07:23:10",
+            "subject": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=SW, CN=OnePlus",
+            "issuer": "C=CN, ST=Guangdong, L=Shenzhen, O=OnePlus, OU=SW, CN=OnePlus"
+        },
+        {
+            "sha1": "330DF1D4F77968C397FF53D444089BB46DC330F1",
+            "organization": "Sony",
+            "not_before": "2000-01-01T14:10:16",
+            "not_after": "2035-01-01T14:10:16",
+            "subject": "C=SE, O=Sony Ericsson Mobile Communications AB, CN=Sony_Ericsson_E_CA_Live_864f",
+            "issuer": "C=SE, O=Sony Ericsson Mobile Communications AB, CN=Sony_Ericsson_E_CA_Live_864f"
+        },
+        {
+            "sha1": "80D0156E14EFA9B2BE949ACC1791720CC58CB6E3",
+            "organization": "Sony",
+            "not_before": "2000-01-01T14:10:18",
+            "not_after": "2035-01-01T14:10:18",
+            "subject": "C=SE, O=Sony Ericsson Mobile Communications AB, CN=Sony_Ericsson_E_CA_Live_864f",
+            "issuer": "C=SE, O=Sony Ericsson Mobile Communications AB, CN=Sony_Ericsson_E_CA_Live_864f"
+        },
+        {
+            "sha1": "0BCDFA052515AA55D915D65D6BAA3159201DDC50",
+            "organization": "Oppo",
+            "not_before": "2018-02-16T13:09:03",
+            "not_after": "2045-07-04T13:09:03",
+            "subject": "C=CN, ST=GuangDong, L=ShenZhen View, O=Android, OU=Android, CN=Android",
+            "issuer": "C=CN, ST=GuangDong, L=ShenZhen View, O=Android, OU=Android, CN=Android"
+        },
+        {
+            "sha1": "57A1BC09A1829E6E1C63A793643AC06799213663",
+            "organization": "Oppo",
+            "not_before": "2017-01-07T09:25:25",
+            "not_after": "2044-05-25T09:25:25",
+            "subject": "C=CN, ST=GuangDong, L=ShenZhen View, O=Android, OU=Android, CN=Android",
+            "issuer": "C=CN, ST=GuangDong, L=ShenZhen View, O=Android, OU=Android, CN=Android"
+        },
+        {
+            "sha1": "AE203B531B1053A5A00B78758454CF52441926EB",
+            "organization": "Oppo",
+            "not_before": "2018-07-18T07:01:43",
+            "not_after": "2045-12-03T07:01:43",
+            "subject": "C=CN, ST=GuangDong, L=ShenZhen View, O=Android, OU=Android, CN=Android",
+            "issuer": "C=CN, ST=GuangDong, L=ShenZhen View, O=Android, OU=Android, CN=Android"
+        },
+        {
+            "sha1": "A60CA98776FCBF2619ABCA20DE05B1EEA0480E83",
+            "organization": "TunnelBear",
+            "not_before": "2012-06-04T20:25:08",
+            "not_after": "2062-05-23T20:25:08",
+            "subject": "CN=TunnelBear",
+            "issuer": "CN=TunnelBear",
+            "packages": ["com.tunnelbear.android"]
+        },
+        {
+            "sha1": "609823BAED399D9A97138D636550EBE82014CF2E",
+            "organization": "Tinder",
+            "not_before": "2013-07-12T15:57:12",
+            "not_after": "2038-07-06T15:57:12",
+            "subject": "O=Tinder",
+            "issuer": "O=Tinder",
+            "packages": ["com.tinder"]
+        },
+        {
+            "sha1": "4A4271A5234894D8366B8BF4E2176688D11160FD",
+            "organization": "Tidal",
+            "not_before": "2009-08-10T11:48:03",
+            "not_after": "2036-12-26T11:48:03",
+            "subject": "C=NO, ST=Unknown, L=Oslo, O=Aspiro AS, OU=Aspiro AS, CN=Aspiro AS",
+            "issuer": "C=NO, ST=Unknown, L=Oslo, O=Aspiro AS, OU=Aspiro AS, CN=Aspiro AS",
+            "packages": ["com.aspiro.tidal"]
+        },
+        {
+            "sha1": "8ED1AB9E5B15FA967F30D6A3A9C17BE0429AB01D",
+            "organization": "Tella",
+            "not_before": "2018-11-14T18:21:20",
+            "not_after": "2043-11-08T18:21:20",
+            "subject": "O=Horizontal, CN=Raphael Mimoun",
+            "issuer": "O=Horizontal, CN=Raphael Mimoun",
+            "packages": ["org.hzontal.tella"]
+        },
+        {
+            "sha1": "6925F4EE297C96E8305C59EA026BFA74A8DCE191",
+            "organization": "Google",
+            "not_before": "2017-04-19T00:48:15",
+            "not_after": "2047-04-19T00:48:15",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "DE8304ACE744AE4C4E05887A27A790815E610FF0",
+            "organization": "Google",
+            "not_before": "2017-01-24T06:26:03",
+            "not_after": "2047-01-24T06:26:03",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "packages": ["com.google.android.apps.subscriptions.red"]
+        },
+        {
+            "sha1": "B99DD2248A4882E560503BA1B6CB10EFB3808F21",
+            "organization": "Google",
+            "not_before": "2019-02-06T22:47:10",
+            "not_after": "2049-02-06T22:47:10",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "packages": ["com.google.android.ext.services"]
+        },
+        {
+            "sha1": "A183524C3C8F8153AAD02C0A346AEF505FD397EA",
+            "organization": "Amazon",
+            "not_before": "2009-03-13T18:41:26",
+            "not_after": "2033-10-23T00:00:00",
+            "subject": "ST=Nevada C=US, OU=Java Object Signing O=Amazon Services LLC L=Las Vegas, CN=Amazon Self-Sign CA",
+            "issuer": "ST=Nevada C=US, OU=Java Object Signing O=Amazon Services LLC L=Las Vegas, CN=Amazon Self-Sign CA",
+            "packages": ["com.amazon.kindle", "com.amazon.mp3", "com.amazon.mShop.android.shopping", "com.amazon.tahoe", "com.amazon.rabbit"]
+        },
+        {
+            "sha1": "706271041202F80CE2AB09DD7C22959D2D92DB0C",
+            "organization": "Google",
+            "not_before": "2017-04-19T00:48:20",
+            "not_after": "2047-04-19T00:48:20",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "9D4420349927B14AA8776AD87296054D2A3B43A4",
+            "organization": "Google",
+            "not_before": "2017-04-19T00:48:25",
+            "not_after": "2047-04-19T00:48:25",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "812A2ACE16C28E4CAF23F97B902EC8746ECA6CF5",
+            "organization": "Microsoft",
+            "not_before": "2012-08-24T20:20:07",
+            "not_after": "2033-11-24T20:20:07",
+            "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Corporation Third Party Marketplace PCA",
+            "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Corporation Third Party Marketplace PCA",
+            "packages": ["com.microsoft.sharepoint", "com.microsoft.skydrive", "com.microsoft.lists.public"]
+        },
+        {
+            "sha1": "130D48C3280F714759DD2E727F59FE0C8705A1CC",
+            "organization": "Malwarebytes",
+            "not_before": "2013-09-24T21:48:01",
+            "not_after": "2041-02-09T21:48:01",
+            "subject": "C=US, ST=CA, L=San Jose, O=Malwarebytes Corporation, OU=IT, CN=Robert Hafner",
+            "issuer": "C=US, ST=CA, L=San Jose, O=Malwarebytes Corporation, OU=IT, CN=Robert Hafner",
+            "packages": ["org.malwarebytes.antimalware"]
+        },
+        {
+            "sha1": "836F4C878866BA3F4F2B70DC5A48F882512ADB6F",
+            "organization": "Wise",
+            "not_before": "2014-03-20T14:37:28",
+            "not_after": "2039-03-14T14:37:28",
+            "subject": "C=UK, L=London, CN=Transferwise",
+            "issuer": "C=UK, L=London, CN=Transferwise",
+            "packages": ["com.transferwise.android"]
+        },
+        {
+            "sha1": "B6A74DBCB894B0F73D8C485C72EB1247A8F027CA",
+            "organization": "Pinterest",
+            "not_before": "2012-04-24T16:30:16",
+            "not_after": "2037-04-18T16:30:16",
+            "subject": "C=US, ST=CA, L=Palo Alto, O=Pinterest Inc, OU=Android, CN=Carl Rice",
+            "issuer": "C=US, ST=CA, L=Palo Alto, O=Pinterest Inc, OU=Android, CN=Carl Rice",
+            "packages": ["com.pinterest", "com.pinterest.shuffles"]
+        },
+        {
+            "sha1": "61ED377E85D386A8DFEE6B864BD85B0BFAA5AF81",
+            "organization": "Strava",
+            "not_before": "2008-02-29T01:33:46",
+            "not_after": "2035-07-17T01:33:46",
+            "subject": "C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android",
+            "packages": ["com.strava"]
+        },
+        {
+            "sha1": "6BACE2778CC5C105B2A44250BDCFFF5C4D5C403A",
+            "organization": "Paypal",
+            "not_before": "2009-07-13T21:14:52",
+            "not_after": "2069-06-28T21:14:52",
+            "subject": "O=Paypal",
+            "issuer": "O=Paypal",
+            "packages": ["com.paypal.android.p2pmobile", "com.paypal.merchant.client"]
+        },
+        {
+            "sha1": "D8E1EE3FF3A7F6EC46883C898032FE03C23EEC20",
+            "organization": "Proton",
+            "not_before": "2015-03-18T19:23:24",
+            "not_after": "2042-08-03T19:23:24",
+            "subject": "C=CH, ST=Geneva, L=Geneva, O=Proton Technologies AG, OU=Proton Technologies AG, CN=Proton Technologies AG",
+            "issuer": "C=CH, ST=Geneva, L=Geneva, O=Proton Technologies AG, OU=Proton Technologies AG, CN=Proton Technologies AG",
+            "packages": ["ch.protonvpn.android", "proton.android.pass", "ch.protonvpn.android"]
+        },
+        {
+            "sha1": "A560A9D18F2400580016A80E65031EE9ACCC9942",
+            "organization": "Google",
+            "not_before": "2020-12-28T16:04:55",
+            "not_after": "2050-12-28T16:04:55",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "packages": ["com.cpctech.signaturemakerpro"]
+        },
+        {
+            "sha1": "B8D8FD4418B35FC90666BAEE4A9B66E71BD167A4",
+            "organization": "Google",
+            "not_before": "2017-04-19T00:48:09",
+            "not_after": "2047-04-19T00:48:09",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=Android"
+        },
+        {
+            "sha1": "1CF0E08999AC70DC96BC7FB8E1B2B063FEB8E15D",
+            "organization": "Audible",
+            "not_before": "2010-05-14T16:45:09",
+            "not_after": "2065-02-14T16:45:09",
+            "subject": "C=US, ST=New Jersey, L=Newark, O=Audible, Inc, OU=Connected Devices, CN=Jeffrey Palm",
+            "issuer": "C=US, ST=New Jersey, L=Newark, O=Audible, Inc, OU=Connected Devices, CN=Jeffrey Palm",
+            "packages": ["com.audible.application"]
+        },
+        {
+            "sha1": "28391BF2D8CF1C39D0133D7F8A989E7A17C62C11",
+            "organization": "Google",
+            "not_before": "2016-01-20T05:21:45",
+            "not_after": "2043-06-07T05:21:45",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=vrcore",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=vrcore",
+            "packages": ["com.google.vr.vrcore"]
+        },
+        {
+            "sha1": "EF6463E8EA6896AED326721EC9C2B0C0FBF5130F",
+            "organization": "KeyBase",
+            "not_before": "2015-10-20T00:58:39",
+            "not_after": "2040-10-13T00:58:39",
+            "subject": "C=US, ST=CA, L=San Francisco, O=Keybase Inc, CN=Marco Munizaga",
+            "issuer": "C=US, ST=CA, L=San Francisco, O=Keybase Inc, CN=Marco Munizaga",
+            "packages": ["io.keybase.ossifrage"]
+        },
+        {
+            "sha1": "B07FC6AECCD21FCBD40543C85112CAFE099BA56F",
+            "organization": "Discord",
+            "not_before": "2015-04-15T23:58:23",
+            "not_after": "2040-04-08T23:58:23",
+            "subject": "C=US, ST=CA, L=Burlingame, O=Hammer and Chisel, CN=Jason Citron",
+            "issuer": "C=US, ST=CA, L=Burlingame, O=Hammer and Chisel, CN=Jason Citron",
+            "packages": ["com.discord"]
+        },
+        {
+            "sha1": "868D38D12DDF7D9926C6AB50AD2C294D53A7F6BD",
+            "organization": "Microsoft",
+            "not_before": "2014-11-05T17:46:26",
+            "not_after": "2034-09-25T17:46:26",
+            "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Azure Authenticator for Android, CN=Microsoft Corporation Third Party Marketplace (Do Not Trust)",
+            "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Azure Authenticator for Android, CN=Microsoft Corporation Third Party Marketplace (Do Not Trust)",
+            "packages": ["com.azure.authenticator"]
+        },
+        {
+            "sha1": "363E09E9B74557CEF8B80D2F020A0719E0F88A9D",
+            "organization": "LastPass",
+            "not_before": "2009-06-19T13:09:20",
+            "not_after": "4747-05-17T13:09:20",
+            "subject": "C=US, ST=DC, L=Washington, O=LastPass, OU=LastPass, CN=LastPass",
+            "issuer": "C=US, ST=DC, L=Washington, O=LastPass, OU=LastPass, CN=LastPass",
+            "packages": ["com.lastpass.lpandroid", "com.lastpass.authenticator"]
+        },
+        {
+            "sha1": "1F387CB25E0069EFCA490ADE28C060E09D37DD45",
+            "organization": "Google",
+            "not_before": "2014-08-08T23:20:20",
+            "not_after": "2041-12-24T23:20:20",
+            "subject": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=webview",
+            "issuer": "C=US, ST=California, L=Mountain View, O=Google Inc., OU=Android, CN=webview"
+        },
+        {
+            "sha1": "5C6AF9A0F3E3380E8776390C784F43DA755D713E",
+            "organization": "AlJazeera",
+            "not_before": "2011-05-04T13:59:19",
+            "not_after": "2038-09-19T13:59:19",
+            "subject": "C=QA, ST=Qatar, L=Doha, O=Al Jazeera, OU=Al Jazeera Network, CN=Safdar Mustafa",
+            "issuer": "C=QA, ST=Qatar, L=Doha, O=Al Jazeera, OU=Al Jazeera Network, CN=Safdar Mustafa",
+            "packages": ["net.aljazeera.english", "net.aljazeera.arabic"]
+        },
+        {
+            "sha1": "139F0F7A8F1FF2DA40093A2447CBC6F762EEE873",
+            "organization": "CNN",
+            "not_before": "2011-04-18T14:06:21",
+            "not_after": "2040-01-16T14:06:21",
+            "subject": "C=US, ST=Georgia, L=Atlanta, O=CNN, OU=CNN Mobile, CN=Anthony Brothers",
+            "issuer": "C=US, ST=Georgia, L=Atlanta, O=CNN, OU=CNN Mobile, CN=Anthony Brothers",
+            "packages": ["com.cnn.mobile.android.phone"]
+        }
+    ]
+}
